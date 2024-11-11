@@ -1,1 +1,1 @@
-Haftalik Kayfiyatlarni Aniqlovchi Dastur UI qismi
+Haftalik kayfiyatlarni aniqlovchi dastur UI qismi
